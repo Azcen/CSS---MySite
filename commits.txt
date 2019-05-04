@@ -1,0 +1,11 @@
+commit f39be5ab34caf6d581b29f7d8db00b49329722ac
+Author: Alejandro <alexx1708@gmail.com>
+Date:   Sat May 4 11:46:59 2019 -0600
+
+    Se volvio a cambiar el color del middle container
+
+commit 07bd46353f7eb95e5ed9a21f27d3359de42908d3
+Author: Alejandro <alexx1708@gmail.com>
+Date:   Sat May 4 11:37:57 2019 -0600
+
+    Se cambio el color del middle-container y la profesion del usuario
